@@ -24,7 +24,8 @@ This work introduces a **trajectory-based ReID approach** to improve robustness.
 ---
 
 ## 🧠 Architecture Overview
-(Add system diagram image here later)
+<img width="507" height="861" alt="image" src="https://github.com/user-attachments/assets/321006c4-1215-44e8-9fee-21790a962f76" />
+
 
 ---
 
