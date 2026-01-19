@@ -49,7 +49,7 @@ This work introduces a **trajectory-based ReID approach** to improve robustness.
 ---
 
 ## 📄 Paper
-[Download IEEE Paper](paper/Multi-Camera-Trajectory-Based-Vehicle-ReID.pdf)
+[Download IEEE Paper](paper/IEEE_Paper.pdf)
 
 ---
 
