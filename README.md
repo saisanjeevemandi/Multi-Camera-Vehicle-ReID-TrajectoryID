@@ -57,3 +57,20 @@ This work introduces a **trajectory-based ReID approach** to improve robustness.
 ```bash
 pip install -r requirements.txt
 python src/main.py
+
+---
+
+
+## 👨‍💻 Authors & Contributors
+
+- Emandi Venkata Sanjeevi Sai Prasanna
+  B.Tech Artificial Intelligence  
+  IEEE Author | AI Engineer | Data Analyst  
+
+- R. Athilakshmi
+  Department of Computational Intelligence,  
+  SRM Institute of Science and Technology  
+
+- Syed Yasir
+  Department of Computational Intelligence,  
+  SRM Institute of Science and Technology  
