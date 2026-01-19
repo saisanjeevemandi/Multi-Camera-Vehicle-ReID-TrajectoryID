@@ -49,6 +49,11 @@ This work introduces a **trajectory-based ReID approach** to improve robustness.
 
 ---
 
+## 📄 Paper
+[Download IEEE Paper](paper/IEEE_Paper.pdf)
+
+---
+
 ## 👨‍💻 Authors & Contributors
 
 - **Emandi Venkata Sanjeevi Sai Prasanna**  
@@ -63,13 +68,23 @@ This work introduces a **trajectory-based ReID approach** to improve robustness.
   Department of Computational Intelligence,  
   SRM Institute of Science and Technology  
 
+---
+
+## 📖 Citation
+
+@INPROCEEDINGS{10958941,
+  author={Athilakshmi, R. and Prasanna, Emandi Venkata Sanjeevi Sai and Yasir, Syed},
+  booktitle={2025 Fifth International Conference on Advances in Electrical, Computing, Communication and Sustainable Technologies (ICAECT)}, 
+  title={Multi-Camera Trajectory Based Vehicle Re-Identification for Robust Traffic Monitoring}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={YOLO;Adaptation models;Accuracy;Surveillance;Computational modeling;Feature extraction;Real-time systems;Robustness;Trajectory;Kalman filters;CCTV Surveillance;Feature Extraction;Kalman Filter;SIFT Algorithm;Object Detection;Real-time Tracking;Security Monitoring;Cmputer Vision;Action Recognition},
+  doi={10.1109/ICAECT63952.2025.10958941}}
 
 ---
 
-## 📄 Paper
-[Download IEEE Paper](paper/IEEE_Paper.pdf)
-
----
 
 ## 🚀 How to Run
 ```bash
@@ -77,6 +92,7 @@ pip install -r requirements.txt
 python src/main.py
 
 ---
+
 
 
  
