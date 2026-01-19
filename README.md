@@ -1,2 +1,59 @@
 # Multi-Camera-Vehicle-ReID-TrajectoryID
 IEEE 2024 | Trajectory-based Vehicle Re-Identification using YOLOv8, SIFT, Kalman Filter
+
+# Multi-Camera Trajectory Based Vehicle Re-Identification for Robust Traffic Monitoring
+
+This repository contains the implementation of the IEEE 2024 research paper:
+**"Multi-Camera Trajectory Based Vehicle Re-Identification for Robust Traffic Monitoring"**.
+
+The project proposes a trajectory-aware ReID framework combining:
+- YOLOv8 for real-time detection  
+- SIFT for feature extraction  
+- Homography for cross-camera mapping  
+- Kalman Filter for predictive tracking  
+- ResNet50 for deep feature representation  
+
+Achieved **86% mAP on the VeRi-776 dataset**, outperforming existing methods.
+
+---
+
+## 🔍 Problem Statement
+Vehicle Re-Identification across multiple cameras is challenging due to occlusion, viewpoint change, and lighting variation. Traditional image-based ReID methods fail to capture motion continuity.  
+This work introduces a **trajectory-based ReID approach** to improve robustness.
+
+---
+
+## 🧠 Architecture Overview
+(Add system diagram image here later)
+
+---
+
+## ⚙️ Tech Stack
+- Python
+- PyTorch
+- YOLOv8
+- OpenCV
+- SIFT
+- Kalman Filter
+- NumPy, Matplotlib
+
+---
+
+## 📊 Results
+| Metric | Value |
+|------|------|
+| mAP | 86% |
+| YOLO Detection Accuracy | 95.2% |
+| Kalman Tracking Accuracy | 93.4% |
+
+---
+
+## 📄 Paper
+[Download IEEE Paper](paper/Multi-Camera-Trajectory-Based-Vehicle-ReID.pdf)
+
+---
+
+## 🚀 How to Run
+```bash
+pip install -r requirements.txt
+python src/main.py
