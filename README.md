@@ -50,17 +50,18 @@ This work introduces a **trajectory-based ReID approach** to improve robustness.
 
 ## 👨‍💻 Authors & Contributors
 
-- Emandi Venkata Sanjeevi Sai Prasanna
+- **Emandi Venkata Sanjeevi Sai Prasanna**  
   B.Tech Artificial Intelligence  
   IEEE Author | AI Engineer | Data Analyst  
 
-- R. Athilakshmi
+- **R. Athilakshmi**  
   Department of Computational Intelligence,  
   SRM Institute of Science and Technology  
 
-- Syed Yasir
+- **Syed Yasir**  
   Department of Computational Intelligence,  
-  SRM Institute of Science and Technology
+  SRM Institute of Science and Technology  
+
 
 ---
 
